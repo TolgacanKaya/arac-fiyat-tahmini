@@ -34,7 +34,6 @@ Veri dosyası: `car_price.csv`
 | `New_Price`         | Aracın sıfır fiyatı (opsiyonel olabilir)         |
 | `Price`             | Aracın satış fiyatı (etiket – hedef değişken)    |
 
-
 ## Dosya Yapısı
 
 ├── araba_fiyat_tahmini.ipynb # Jupyter Notebook dosyası
@@ -97,7 +96,3 @@ En yüksek başarıyı Random Forest modeli vermiştir. Tahmin başarısı metri
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-
-Notebook dosyasını çalıştırarak veri analizi ve modelleme adımlarını inceleyin.
-
-fiyat_tahmin.py dosyasını çalıştırarak kullanıcı girdilerine göre fiyat tahmini yapabilirsiniz.
